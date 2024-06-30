@@ -1,6 +1,7 @@
 ---
 title: Hexo 建站-HelloWorld
 tags: hexo建站
+categories: HEXO 相关
 ---
 
 为什么需要个人博客？

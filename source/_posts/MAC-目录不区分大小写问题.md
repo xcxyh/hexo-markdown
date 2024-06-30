@@ -1,7 +1,8 @@
 ---
 title: MAC 目录不区分大小写问题
 date: 2024-06-02 19:13:16
-tags:
+tags: MAC系统
+categories: 开发问题记录
 ---
 
 在苹果文件系统 **APFS (Apple File System)**  中，默认情况下是不区分大小写的，这意味着文件和文件夹的名称不区分大小写。例如，"Document.txt" 和 "document.txt" 被视为相同的文件。这种行为适用于大多数用户，并且是 macOS 和 iOS 设备的默认设置。
