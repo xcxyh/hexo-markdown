@@ -1,5 +1,6 @@
 ---
 title: Hexo 建站-HelloWorld
+date: 2024-06-02 19:00:00
 tags: hexo建站
 categories: HEXO 相关
 ---
