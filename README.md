@@ -8,7 +8,7 @@
 
 ## 🌐 在线访问
 
-[**https://xcxyh.github.io/**](https://xcxyh.github.io/)
+[**https://vnipanda.xyz/**](https://vnipanda.xyz/)
 
 ## 📋 项目介绍
 
@@ -141,9 +141,9 @@ Fluid 主题提供了丰富的自定义选项，主要通过 `_config.fluid.yml`
 
 ## 🤝 联系方式
 
-- **博客**：[https://xcxyh.github.io/](https://xcxyh.github.io/)
+- **博客**：[https://vnipanda.xyz/](https://vnipanda.xyz/)
 - **GitHub**：[@xcxyh](https://github.com/xcxyh)
-- **邮箱**：通过 GitHub Issues 联系
+- **邮箱**：[window3cc@qq.com](mailto:window3cc@qq.com)
 
 ---
 
