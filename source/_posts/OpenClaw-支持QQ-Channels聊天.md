@@ -13,7 +13,7 @@ https://github.com/BytePioneer-AI/openclaw-china/blob/main/doc/guides/qqbot/conf
 安装方式非常简单，只需要执行：
 
 ```
-openclaw plugins install @openclaw-china/channels
+openclaw plugins install @openclaw-china/qqbot
 ```
 
 然后配置以下内容：
