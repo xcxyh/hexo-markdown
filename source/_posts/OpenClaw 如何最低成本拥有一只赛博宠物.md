@@ -1,7 +1,7 @@
 ---
 title: 'OpenClaw: 如何最低成本拥有一只赛博宠物（踩坑无数~纯手打教程）'
 date: 2026-02-06 12:28:30
-tags: AI
+tags: AI,OpenClaw
 ---
 
 
