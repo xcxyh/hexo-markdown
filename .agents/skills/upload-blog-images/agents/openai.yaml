@@ -1,0 +1,4 @@
+interface:
+  display_name: "上传博客图片"
+  short_description: "上传图片到 GitHub 图床并返回固定 CDN 链接"
+  default_prompt: "使用 $upload-blog-images 上传这些博客图片，并返回可直接引用的 Markdown 链接。"
